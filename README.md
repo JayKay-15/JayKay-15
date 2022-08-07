@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse - @JayKay-15
 - 👀 I’m interested in data analysis and sport betting models
-- 🌱 I’m currently learning R, SQL, and Tableau
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data analysis projects and sports betting models
 - 📫 How to reach me jesse.kartes@gmail.com
 
